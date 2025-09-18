@@ -268,3 +268,7 @@ The app uses Supabase with the following main tables:
 - Separated concerns (components, services, types)
 - Reusable components and hooks
 - Proper error handling throughout the app
+
+### License
+
+MIT License
